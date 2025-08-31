@@ -7,9 +7,8 @@ export default function Index() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-      }}
-    >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      }}>
+      <Text>First App Created</Text>
     </View>
   );
 }
